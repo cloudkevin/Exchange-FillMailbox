@@ -1,6 +1,3 @@
-# Exchange-FillMailbox
-Fill an Exchange mailbox with a set amount of mail
-
 # Inputs
 -Server = your mail server
 -TargetMailbox = mailbox to fill with mail  
