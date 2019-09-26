@@ -1,5 +1,5 @@
 # Inputs
--Server = your mail server
+-Server = your mail server  
 -TargetMailbox = mailbox to fill with mail  
 -NumDaysBack = number of days to backfill with mail  
 -MsgsPerDay = number of messages to generate for each day  
